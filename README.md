@@ -30,6 +30,6 @@ Telegram: https://t.me/dev_bot_team
 Enjoy.
 
 Screens:
-https://ibb.co/5WMXbJy
-https://ibb.co/RSqSjpm
-https://ibb.co/0jdDyhv
+<img src="https://github.com/dev-bot-team/YouTubeViewBot-NoBrowser/blob/main/yt01.png" alt="Youtube view bot"><br>
+<img src="https://github.com/dev-bot-team/YouTubeViewBot-NoBrowser/blob/main/yt02.png" alt="Youtube view bot"><br>
+<img src="https://github.com/dev-bot-team/YouTubeViewBot-NoBrowser/blob/main/yt03.png" alt="Youtube view bota">
