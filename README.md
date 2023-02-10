@@ -7,6 +7,12 @@ I code 15h per day different things personal and also company type.
 I live in Austria so please respect my timezone when you message on Telegram.
 Please do not try to call me I do not turn my phone off when I sleep so it will ring and wake me up and I will get stressed and I will ban you.
 
+I have uploaded also .exe file free trial you can check how nice it works.
+It is protected by enigmaprotector so it may show many false positive "viruses" so if you do not trust it run this file on Sandbox in Windows Pro there is sandbox for free btw.
+
+Please use only ssl google passed proxies, if you have budget please buy premium socks5 type proxies example: proxy.am
+If not use any residential socks5 but NOT changed IP on request use sticky proxies for at least 15min.
+
 Thanks.
 
 Telegram: https://t.me/dev_bot_team
