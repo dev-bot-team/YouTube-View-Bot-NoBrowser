@@ -28,3 +28,8 @@ Telegram: https://t.me/dev_bot_team
 4. Choose proxies to scrape or edit "proxy_url.txt" and add your own URLs API links.
 
 Enjoy.
+
+Screens:
+https://ibb.co/5WMXbJy
+https://ibb.co/RSqSjpm
+https://ibb.co/0jdDyhv
