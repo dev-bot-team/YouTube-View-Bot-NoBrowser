@@ -1,4 +1,4 @@
-# YouTubeViewBot-NoBrowser
+# YouTube View Bot - NoBrowser type.
 Youtube view bot made in C# works on offline video, it is not browser or selenium pure HTTP-Request bot.
 
 If you need the source code let me know or if you need for live stream let me know.
@@ -15,9 +15,7 @@ It is protected by enigmaprotector so it may show many false positive "viruses" 
 Please use only ssl google passed proxies, if you have budget please buy premium socks5 type proxies example: proxy.am
 If not use any residential socks5 but NOT changed IP on request use sticky proxies for at least 15min.
 
-Thanks.
-
-Telegram: https://t.me/dev_bot_team
+<b>Telegram:</b> https://t.me/dev_bot_team
 
 
 
@@ -33,3 +31,7 @@ Screens:
 <img src="https://github.com/dev-bot-team/YouTubeViewBot-NoBrowser/blob/main/yt011.png" alt="Youtube view bot"><br>
 <img src="https://github.com/dev-bot-team/YouTubeViewBot-NoBrowser/blob/main/yt02.png" alt="Youtube view bot"><br>
 <img src="https://github.com/dev-bot-team/YouTubeViewBot-NoBrowser/blob/main/yt03.png" alt="Youtube view bota">
+
+
+
+<b>PLEASE USE IT AT YOUR OWN RISK since YouTube do NOT ALLOW API BOTS I only made it because I love coding.</b>
