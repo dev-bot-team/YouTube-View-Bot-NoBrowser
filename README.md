@@ -34,3 +34,4 @@ Screens:
 
 
 <b>PLEASE USE IT AT YOUR OWN RISK since YouTube do NOT ALLOW API BOTS I only made it because I love coding.</b>
+<h2>LIVE STREAM VERSION Available on Telegram ONLY</h2>
