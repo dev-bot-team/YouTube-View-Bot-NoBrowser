@@ -1,4 +1,4 @@
-//IF YOU NEED THE REST OF THE MISSING CODE Contact me on Telegram (https://t.me/dev_bot_team).
+//IF YOU NEED THE REST OF THE MISSING CODE Contact me on Telegram (https://t.me/dev_bot_oficial).
 
 
     using System; 
@@ -72,7 +72,7 @@
                  req.Cookies.Container.Add(new Uri("https://www.youtube.com"), new Cookie("", ""));
                 req.Cookies.Container.Add(new Uri("https://www.youtube.com"), new Cookie("GPS", "1"));
                 
-//IF YOU NEED THE REST OF THE MISSING CODE Contact me on Telegram (https://t.me/dev_bot_team).
+//IF YOU NEED THE REST OF THE MISSING CODE Contact me on Telegram (https://t.me/dev_bot_oficial).
 
                 var sres = req.Get($"https://www.youtube.com/watch?v={id}").ToString();
                     var _url = sres;
@@ -101,7 +101,7 @@
                         ["&cpn"] = cpn,
                         ["&docid"] = id,
                         ["&ver"] = "2",
-                        //IF YOU NEED THE REST OF THE MISSING CODE Contact me on Telegram (https://t.me/dev_bot_team).
+                        //IF YOU NEED THE REST OF THE MISSING CODE Contact me on Telegram (https://t.me/dev_bot_oficial).
                     };
                         
                 var args2 = new Dictionary<string, string>
@@ -110,7 +110,7 @@
                     ["&el"] = "detailpage",
                     ["&cpn"] = cpn,
                     ["&docid"] = id,
-                    //IF YOU NEED THE REST OF THE MISSING CODE Contact me on Telegram (https://t.me/dev_bot_team).        
+                    //IF YOU NEED THE REST OF THE MISSING CODE Contact me on Telegram (https://t.me/dev_bot_oficial).        
                 };
 
                 string urlToGetPlayback = buildPlaybackUrl(args1);
@@ -147,12 +147,12 @@
         
     public static double GetCmt(DateTime date)
     {
-    //IF YOU NEED THE REST OF THE MISSING CODE Contact me on Telegram (https://t.me/dev_bot_team).
+    //IF YOU NEED THE REST OF THE MISSING CODE Contact me on Telegram (https://t.me/dev_bot_oficial).
     }
 
     public static double GetLio(DateTime date)
     {
-    //IF YOU NEED THE REST OF THE MISSING CODE Contact me on Telegram (https://t.me/dev_bot_team).
+    //IF YOU NEED THE REST OF THE MISSING CODE Contact me on Telegram (https://t.me/dev_bot_official).
     }
     
     private static Random random = new Random();
