@@ -15,8 +15,7 @@ It is protected by enigmaprotector so it may show many false positive "viruses" 
 Please use only ssl google passed proxies, if you have budget please buy premium socks5 type proxies example: proxy.am
 If not use any residential socks5 but NOT changed IP on request use sticky proxies for at least 15min.
 
-<b>Telegram:</b> https://t.me/dev_bot_team
-
+<b>Telegram:</b> https://t.me/dev_bot_official
 
 <b>HOW IT WORKS?</b>
 1. Run Youtube-Viewers.exe
