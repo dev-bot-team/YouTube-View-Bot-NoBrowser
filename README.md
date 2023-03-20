@@ -17,7 +17,7 @@ If not use any residential socks5 but NOT changed IP on request use sticky proxi
 
 <b>Telegram:</b> https://t.me/dev_bot_official
 
-<b>HOW IT WORKS?</b>
+<b>HOW DOES IT WORKS?</b>
 1. Run Youtube-Viewers.exe
 2. Add youtube OFFLINE video ID example: cBgu52dHqxE
 3. Add Threads 50 or 80 or i9 PC with GPU and good interent connection add even 500
