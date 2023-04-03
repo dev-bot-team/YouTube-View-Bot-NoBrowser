@@ -1,6 +1,12 @@
 # YouTube View Bot - No-Browser type.
 Youtube view bot made in C# works on offline video, it is not browser or selenium pure HTTP-Request bot.<br>
-<h1>YouTube PATCHED this verision !<br>So NO MORE FREE STUFF on here - UNPACHED VERSION ON TELEGRAM</h1>
+![Screenshot 2023-04-03 172420](https://user-images.githubusercontent.com/125034016/229556354-5529a38a-ec10-4c4c-b76d-840a2b754c85.png)
+
+<h1>YouTube PATCHED this verision !<br>So NO MORE FREE STUFF on here - <br>UNPACHED VERSION ON TELEGRAM</h1><br>SEE VIDEO PROOF:<br>
+
+
+https://user-images.githubusercontent.com/125034016/229556214-b6d432e9-ebf1-4125-98fb-3a74d7c6138a.mp4
+
 
 If you need the source code let me know or if you will need for live stream let me know.
 
