@@ -34,9 +34,3 @@ Enjoy.
 <b>=>PLEASE DO NOT SAY it is expensive! You can create your own tool and GIVE it for 20 bucks but not me!</b><br><br>
 
 <b>PLEASE USE IT AT YOUR OWN RISK since YouTube do NOT ALLOW API BOTS I only made it because I love coding.</b>
-<b>FEEL FREE TO DONATE:</b><br>
-<i>(if you donate you become premium member and possiblity to get trial)</i><br>
-BTC: 189pujFY9i2AVCZq1kCbNJEadivRC8DUdT<br>
-USDT (TRC20): TNg4Svv7eqXifJH5h9y2HytBQYZjgqLenH<br>
-USDT (ERC20): 0x4f641ef3cab806eb55234647ff2eb4e25599b851<br>
-USDT (SOL): 5GC1wCL6cUdNcWimQRiTgokxVaHRxfSWKDYGdYeYk6H2
